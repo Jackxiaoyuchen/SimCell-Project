@@ -1,5 +1,5 @@
 # SimCell-Project
 
-This project is to allow people who are keen on doing synbio a wider collbration and understanding
+This project is to allow people who are keen on doing synbio a wider collaboration and understanding of how to construct a chassis cell from scratch
 
-and a recorde of my miserable PhD lie
+and a record of my miserable PhD lie
